@@ -1,0 +1,30 @@
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\bin\Debug\Congelatto.exe.config
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\bin\Debug\Congelatto.exe
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\bin\Debug\Congelatto.pdb
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.AssemblyReference.cache
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.SuggestedBindingRedirects.cache
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.Properties.Resources.resources
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.GenerateResource.cache
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.CoreCompileInputs.cache
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.exe
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.pdb
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.frmProveedor.resources
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.frmEmpleados.resources
+C:\Users\LuisFernandoRengifoP\source\repos\POO\POO\Congelatto\Congelatto\obj\Debug\Congelatto.MenuPrincipal.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\bin\Debug\Congelatto.exe.config
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\bin\Debug\Congelatto.exe
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\bin\Debug\Congelatto.pdb
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.AssemblyReference.cache
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.SuggestedBindingRedirects.cache
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.frmClientes.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.frmEmpleados.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.frmInicio.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.frmProveedor.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.MenuPrincipal.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.Properties.Resources.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.GenerateResource.cache
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.csproj.CoreCompileInputs.cache
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.exe
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.pdb
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.frmCompra.resources
+C:\Users\LuisFernandoRengifoP\Documents\Desarrollo Orientado a Objetos(Proyectos)\Congelatto\Congelatto\obj\Debug\Congelatto.frmFactura.resources
